@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SRMCategory_Example' do
+  pod 'SRMCategory', :path => '../'
+
+  target 'SRMCategory_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
