@@ -5,7 +5,9 @@ target 'SRMCategory_Example' do
 
   target 'SRMCategory_Tests' do
     inherit! :search_paths
+  end
 
-    pod 'FBSnapshotTestCase'
+  target 'SRMCategory_ExampleUITests' do
+    inherit! :search_paths
   end
 end

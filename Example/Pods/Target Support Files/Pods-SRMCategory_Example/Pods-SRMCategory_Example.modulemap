@@ -1,0 +1,6 @@
+framework module Pods_SRMCategory_Example {
+  umbrella header "Pods-SRMCategory_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

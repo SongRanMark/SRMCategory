@@ -1,0 +1,6 @@
+framework module Pods_SRMCategory_ExampleUITests {
+  umbrella header "Pods-SRMCategory_ExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

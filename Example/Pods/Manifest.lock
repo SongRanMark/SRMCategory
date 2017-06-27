@@ -1,0 +1,16 @@
+PODS:
+  - SRMCategory (0.1.0)
+
+DEPENDENCIES:
+  - SRMCategory (from `../`)
+
+EXTERNAL SOURCES:
+  SRMCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SRMCategory: de80d765406b9decacd2974292be3b4b909a127f
+
+PODFILE CHECKSUM: 031f41ee75b14d16db6a84d9ef0911c98d1ef31f
+
+COCOAPODS: 1.2.1
