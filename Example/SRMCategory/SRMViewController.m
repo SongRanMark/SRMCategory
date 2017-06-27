@@ -7,7 +7,7 @@
 //
 
 #import "SRMViewController.h"
-#import <SRMCategory/SRMCategory.h>
+#import <SRMCategory/SRMCategory-umbrella.h>
 
 NSString *const kSuperViewIdentifier = @"kSuperViewIdentifier";
 NSString *const kCenterViewIdentifier = @"kCenterViewIdentifier";

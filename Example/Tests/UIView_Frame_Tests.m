@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import "UIView+SRMFrame.h"
+#import <SRMCategory/SRMCategory-umbrella.h>
 
 @interface UIView_Frame_Tests : XCTestCase
 

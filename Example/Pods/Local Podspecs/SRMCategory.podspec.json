@@ -1,18 +1,18 @@
 {
   "name": "SRMCategory",
   "version": "0.1.0",
-  "summary": "A short description of SRMCategory.",
+  "summary": "Common Category Set.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/githubsr/SRMCategory",
+  "homepage": "https://github.com/SongRanMark/SRMCategory",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "githubsr": "marksong@augmentum.com.cn"
+    "S.R": "firecrackerinlane2@gmail.com"
   },
   "source": {
-    "git": "https://github.com/githubsr/SRMCategory.git",
+    "git": "https://github.com/SongRanMark/SRMCategory.git",
     "tag": "0.1.0"
   },
   "platforms": {

@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <SRMCategory/SRMCategory.h>
+#import <SRMCategory/SRMCategory-umbrella.h>
 
 @interface NSString_Extension_Tests : XCTestCase
 
