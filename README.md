@@ -1,6 +1,6 @@
 # SRMCategory
 
-[![CI Status](http://img.shields.io/travis/githubsr/SRMCategory.svg?style=flat)](https://travis-ci.org/githubsr/SRMCategory)
+[![CI Status](http://img.shields.io/travis/SongRanMark/SRMCategory.svg?style=flat)](https://travis-ci.org/SongRanMark/SRMCategory)
 [![Version](https://img.shields.io/cocoapods/v/SRMCategory.svg?style=flat)](http://cocoapods.org/pods/SRMCategory)
 [![License](https://img.shields.io/cocoapods/l/SRMCategory.svg?style=flat)](http://cocoapods.org/pods/SRMCategory)
 [![Platform](https://img.shields.io/cocoapods/p/SRMCategory.svg?style=flat)](http://cocoapods.org/pods/SRMCategory)
@@ -22,7 +22,7 @@ pod "SRMCategory"
 
 ## Author
 
-githubsr, marksong@augmentum.com.cn
+S.R, firecrackerinlane2@gmail.com
 
 ## License
 

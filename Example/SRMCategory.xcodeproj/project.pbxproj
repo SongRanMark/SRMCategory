@@ -729,6 +729,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SRMCategory/SRMCategory-Prefix.pch";
 				INFOPLIST_FILE = "SRMCategory/SRMCategory-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -744,6 +745,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SRMCategory/SRMCategory-Prefix.pch";
 				INFOPLIST_FILE = "SRMCategory/SRMCategory-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -807,6 +809,7 @@
 				034694BE1F0235DB00449D9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6003F585195388D10070C39A /* Build configuration list for PBXProject "SRMCategory" */ = {
 			isa = XCConfigurationList;
